@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct CuisineListCellModel {
+    let cuisineImageURL: String?
+    let cuisineName: String
+}
