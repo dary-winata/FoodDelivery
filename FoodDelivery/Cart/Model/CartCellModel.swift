@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct CartCellModel {
+    let restaurantName: String
+    let totalItem: String
+}

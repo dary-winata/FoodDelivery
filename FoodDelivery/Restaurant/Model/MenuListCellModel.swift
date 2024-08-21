@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+struct MenuListCellModel {
+    var imageURL: String
+    var name: String
+    var description: String
+    var price: String
+    var addText: String
+}

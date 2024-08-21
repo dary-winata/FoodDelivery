@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct LocationCellModel {
+    let locationName: String
+    let locationDetails: String
+}
